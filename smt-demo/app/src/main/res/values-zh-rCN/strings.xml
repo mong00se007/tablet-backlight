@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="smt_test">外接口</string>
+    <string name="app_name">smt-test</string>
+    <string name="smt_led">灯</string>
+    <string name="smt_temperature_humidity">温湿度</string>
+    <string name="smt_temperature">温度</string>
+    <string name="smt_humidity">湿度</string>
+    <string name="smt_save">是否需要保存</string>
+
+    <string name="color_white">白</string>
+    <string name="color_blue">蓝</string>
+    <string name="color_green">绿</string>
+    <string name="color_red">红</string>
+    <string name="color_yellow">黄</string>
+    <string name="color_cyan">青</string>
+    <string name="color_purple">紫</string>
+</resources>

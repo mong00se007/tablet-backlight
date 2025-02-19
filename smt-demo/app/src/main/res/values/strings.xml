@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">smt-test</string>
+    <string name="smt_test">External interface</string>
+    <string name="smt_led">LED</string>
+    <string name="smt_temperature_humidity">Temperature and humidity</string>
+    <string name="smt_temperature">Temperature</string>
+    <string name="smt_humidity">Humidity</string>
+    <string name="smt_save">Do you need to save it</string>
+
+    <string name="color_white">white</string>
+    <string name="color_blue">blue</string>
+    <string name="color_green">green</string>
+    <string name="color_red">red</string>
+    <string name="color_yellow">yellow</string>
+    <string name="color_cyan">cyan</string>
+    <string name="color_purple">purple</string>
+</resources>
