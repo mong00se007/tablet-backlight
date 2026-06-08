@@ -1,3 +1,4 @@
 
 Just install this on the tablet..
----- warning this is a test ---- it might break the tablet, use at your own risk - this message will be removed once I have had a chance to test it...
+---Use at your own risk, but so far so good!----
+Auto discovers as "Smart Android Panel" all vibe coded :)
